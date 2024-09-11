@@ -1,0 +1,10 @@
+C:\Users\mil\source\repos\connectionPCB\connectionPCB\bin\Debug\connectionPCB.exe.config
+C:\Users\mil\source\repos\connectionPCB\connectionPCB\bin\Debug\connectionPCB.exe
+C:\Users\mil\source\repos\connectionPCB\connectionPCB\bin\Debug\connectionPCB.pdb
+C:\Users\mil\source\repos\connectionPCB\connectionPCB\obj\Debug\connectionPCB.csproj.AssemblyReference.cache
+C:\Users\mil\source\repos\connectionPCB\connectionPCB\obj\Debug\connectionPCB.Properties.Resources.resources
+C:\Users\mil\source\repos\connectionPCB\connectionPCB\obj\Debug\connectionPCB.csproj.GenerateResource.cache
+C:\Users\mil\source\repos\connectionPCB\connectionPCB\obj\Debug\connectionPCB.csproj.CoreCompileInputs.cache
+C:\Users\mil\source\repos\connectionPCB\connectionPCB\obj\Debug\connectionPCB.exe
+C:\Users\mil\source\repos\connectionPCB\connectionPCB\obj\Debug\connectionPCB.pdb
+C:\Users\mil\source\repos\connectionPCB\connectionPCB\obj\Debug\connectionPCB.Form1.resources
